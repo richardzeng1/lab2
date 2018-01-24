@@ -1,0 +1,14 @@
+do wave2.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:25:29 on Jan 23,2018
+# vlog -reportprogress 300 -timescale 1ns/1ns mux.v 
+# -- Compiling module seven_seg_decoder
+# 
+# Top level modules:
+# 	seven_seg_decoder
+# End time: 23:25:30 on Jan 23,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim seven_seg_decoder 
+# Start time: 23:25:30 on Jan 23,2018
+# Loading work.seven_seg_decoder

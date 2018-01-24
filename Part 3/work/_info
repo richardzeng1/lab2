@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/h/u4/c6/05/zengrun1/Desktop/CSC258/Lab 2/Part 3
+vseven_seg_decoder
+!s110 1516767929
+!i10b 1
+!s100 1IHbbSk8X1kVozj[A4o0N2
+IEFFDBVfkzT2=0ee]4h=>61
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1516752619
+8mux.v
+Fmux.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1516767929.000000
+!s107 mux.v|
+!s90 -reportprogress|300|-timescale|1ns/1ns|mux.v|
+!i113 1
+o-timescale 1ns/1ns
+tCvgOpt 0
